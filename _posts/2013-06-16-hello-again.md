@@ -1,8 +1,27 @@
 ---
+layout: blog
 published: true
 category: blog
-layout: blog
 splash: "http://placehold.it/1600x500"
+tags: null
+title: Behavior Tree Tool
 ---
 
-Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor. Integer eget sem. Ut vitae enim eu est vehicula gravida. Morbi ipsum ipsum, porta nec, tempor id, auctor vitae, purus. Pellentesque neque. Nulla luctus erat vitae libero. Integer nec enim. Phasellus aliquam enim et tortor. Quisque aliquet, quam elementum condimentum feugiat, tellus odio consectetuer wisi, vel nonummy sem neque in elit. Curabitur eleifend wisi iaculis ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non velit non ligula laoreet ultrices. Praesent ultricies facilisis nisl. Vivamus luctus elit sit amet mi. Phasellus pellentesque, erat eget elementum volutpat, dolor nisl porta neque, vitae sodales ipsum nibh in ligula. Maecenas mattis pulvinar diam. Curabitur sed leo.
+### Behavior Tree Tool Basics
+![Behavior Tool Full v1.002.jpg]({{site.baseurl}}/media/Behavior Tool Full v1.002.jpg)
+_Lorem Ipsum Dolor Sit Amet_
+
+**Create a new behavior tree**
+1. Open a skill or create a new one.
+2. Click Jibo (or right-click the Project pane) > New Behavior Tree File.
+3. Type a name for your behavior in the Save As box.
+	- Recommended: Use lowercase letters only.
+	- Recommended: Use dashes instead of spaces.
+	- example: new-test-behavior
+4. Confirm the Where textbox is set to behaviors.
+5. Click Save
+
+**Composite Behaviors** ![pasted image 0.png]({{site.baseurl}}/media/pasted image 0.png)
+
+
+
